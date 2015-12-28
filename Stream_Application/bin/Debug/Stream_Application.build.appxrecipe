@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ATUL</Machine>
+    <WindowsUser>Atuls</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3a22dce5-6c69-4938-ab5f-76e494dc6d8b</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Stream_Application.exe">
+      <PackagePath>Stream_Application.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Fonts\MyriadPro-Regular.otf">
+      <PackagePath>Fonts\MyriadPro-Regular.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Fonts\Prime Regular.otf">
+      <PackagePath>Fonts\Prime Regular.otf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\PRIME LIGHT.OTF">
+      <PackagePath>Image\PRIME LIGHT.OTF</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\PRIME REGULAR.OTF">
+      <PackagePath>Image\PRIME REGULAR.OTF</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\back.png">
+      <PackagePath>Image\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\document.png">
+      <PackagePath>Image\document.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\news.png">
+      <PackagePath>Image\news.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\de - Copy.png">
+      <PackagePath>Image\de - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\de.png">
+      <PackagePath>Image\de.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\en.png">
+      <PackagePath>Image\en.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\eb_copy.png">
+      <PackagePath>Image\eb_copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\green.png">
+      <PackagePath>Image\green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\key.png">
+      <PackagePath>Image\key.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\lock.png">
+      <PackagePath>Image\lock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\logo.png">
+      <PackagePath>Image\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\menu.png">
+      <PackagePath>Image\menu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\mic.png">
+      <PackagePath>Image\mic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\pl - Copy.png">
+      <PackagePath>Image\pl - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\pl.png">
+      <PackagePath>Image\pl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\question.png">
+      <PackagePath>Image\question.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\side.png">
+      <PackagePath>Image\side.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\side_.png">
+      <PackagePath>Image\side_.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\sponser.png">
+      <PackagePath>Image\sponser.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Document_page.xbf">
+      <PackagePath>Document_page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Home.xbf">
+      <PackagePath>Home.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Login_step1.xbf">
+      <PackagePath>Login_step1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\News.xbf">
+      <PackagePath>News.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Question.xbf">
+      <PackagePath>Question.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Sponsors.xbf">
+      <PackagePath>Sponsors.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\stream.xbf">
+      <PackagePath>stream.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Stream_Application.xr.xml">
+      <PackagePath>Stream_Application.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

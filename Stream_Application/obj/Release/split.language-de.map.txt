@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-de"
+"ResourceDimensions"		"language-de"
+
+[Files]
+"C:\Users\Atuls\Documents\Visual Studio 2013\Projects\Stream_Application\Stream_Application\obj\Release\split.language-de.pri"			"resources.pri"

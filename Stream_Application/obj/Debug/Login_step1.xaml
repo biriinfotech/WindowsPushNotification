@@ -1,0 +1,74 @@
+﻿<Page
+    x:Class="Stream_Application.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Stream_Application"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="488.6"></ColumnDefinition>
+            <ColumnDefinition Width="488.6"></ColumnDefinition>
+            <ColumnDefinition Width="488.6"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Border Grid.Row="1" Grid.Column="1">
+                <Image Width="400"  Source="/image/logo.png"></Image>
+           
+            
+        </Border>
+        <Border Grid.Row="2"   Grid.Column="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="80"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+            
+               <TextBlock Text="Enter Event Code" Grid.Row ="0" TextAlignment="Center" FontSize="35" VerticalAlignment="Center"></TextBlock>
+            <Border Height="60" Padding="10 0 0 0"  Grid.Row="1" Background="#fbfbfb" CornerRadius="10">
+                <StackPanel  Orientation="Horizontal">
+                    <Image Width="40" HorizontalAlignment="Left" Source="/image/key.png"></Image>
+                    <TextBox Width="380" Background="Transparent" BorderBrush="Transparent" ></TextBox>
+                    <Image Source="/image/green.png" Width="50" Visibility="Collapsed"></Image>
+                </StackPanel>
+            </Border>
+
+            </Grid>
+        </Border>
+        <Border Grid.Row="3"   Grid.Column="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="163"></ColumnDefinition>
+                    <ColumnDefinition Width="163"></ColumnDefinition>
+                    <ColumnDefinition Width="163"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0">
+                    <Image Source="/image/en.png" Width="80" ></Image>
+                </Border>
+                <Border Grid.Column="1">
+                    <Image Source="/image/de.png" Width="80" ></Image>
+                </Border>
+                <Border Grid.Column="2">
+                    <Image Source="/image/pl.png" Width="80" ></Image>
+                </Border>
+
+            </Grid>
+        </Border>
+        <Border x:ConnectionId='1' Grid.Row="4" Name="log_border" Background="#555555" CornerRadius="10" Grid.Column="1"                           >
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Source="/image/lock.png" VerticalAlignment="Center" Width="35"></Image>
+                <TextBlock Text="Login" Margin="5 0 0 0" Name="log_step" FontSize="35" VerticalAlignment="Center" ></TextBlock>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Page>
+

@@ -1,0 +1,184 @@
+﻿<Page
+    x:Class="Stream_Application.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Stream_Application"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.TopAppBar>
+        <AppBar Height="100"   Background="#000000" BorderBrush="Transparent" BorderThickness="0" IsOpen="False" >
+         
+            <Border>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="120"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="120"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+
+                    <Border x:ConnectionId='1' Name="back_press" Grid.Row="0" Grid.Column="0" Width="70" VerticalAlignment="Center"                           >
+                        
+                    </Border>
+                    <Border x:ConnectionId='2' Name="menu"                      Grid.Row="0" Grid.Column="2" Width="70" VerticalAlignment="Center" >
+                        <Image Source="/image/menu.png" Width="70" ></Image>
+                    </Border>
+                 </Grid>
+
+            </Border>
+           
+          
+        </AppBar>
+    </Page.TopAppBar>
+    <Grid x:ConnectionId='3' Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"                      >
+       <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="140"></RowDefinition>
+            <RowDefinition Height="450"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+        </Grid.RowDefinitions>
+     
+        <Border Grid.Row="1" Background="#1a1a1a">
+          
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                <Image Source="/image/menu.png" Name="event_logo" Width="80" Height="120"></Image>
+                <TextBlock VerticalAlignment="Center" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" Name="event_name" FontSize="35" Margin="5" Text="EVENT NAME"></TextBlock>
+            </StackPanel>
+        
+           
+        </Border>
+       
+        <ScrollViewer Grid.Row="2">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="120"></RowDefinition>
+                    <RowDefinition Height="120"></RowDefinition>
+                    <RowDefinition Height="120"></RowDefinition>
+                    <RowDefinition Height="120"></RowDefinition>
+                    <RowDefinition Height="120"></RowDefinition>
+              
+
+                </Grid.RowDefinitions>
+                <Border x:ConnectionId='6' Grid.Row="0" Name="Stream" Background="#333333"                       >
+                <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" BorderBrush="#ffffff" BorderThickness="0 0 0 2">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Image Visibility="Collapsed" Name="stram_img" Width="40" Source="/image/side_.png"></Image>
+                        <Image Source="/image/mic.png"  Margin="10" Width="70"></Image>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="1">
+                            <TextBlock Text="Stream" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" FontSize="35" Name="stream_list" VerticalAlignment="Center"></TextBlock>
+                </Border>
+
+            </Grid>
+        </Border>
+                <Border x:ConnectionId='7' Grid.Row="1" Name="News" Background="#1a1a1a"                     >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" BorderBrush="#ffffff" BorderThickness="0 0 0 2">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Image Visibility="Collapsed" Name="news_img" Width="40" Source="/image/side_.png"></Image>
+                                <Image Source="/image/news.png"  Margin="10" Width="70"></Image>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="1">
+                            <TextBlock Text="News" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" FontSize="35" Name="news_text" VerticalAlignment="Center"></TextBlock>
+                </Border>
+
+            </Grid>
+        </Border>
+                <Border x:ConnectionId='8' Grid.Row="2" Name="Question" Background="#333333"                         >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" BorderBrush="#ffffff" BorderThickness="0 0 0 2">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Image Visibility="Collapsed" Name="ques_img" Width="40" Source="/image/side_.png"></Image>
+                                <Image Source="/image/question.png"  Margin="10" Width="70"></Image>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="1">
+                            <TextBlock Text="Questionnaire" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" Name="question_text" FontSize="35" VerticalAlignment="Center"></TextBlock>
+                </Border>
+
+            </Grid>
+        </Border>
+                <Border x:ConnectionId='9' Grid.Row="3" Name="Document" Background="#1a1a1a"                         >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" BorderBrush="#ffffff" BorderThickness="0 0 0 2">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Image Visibility="Collapsed" Name="doc_img" Width="40" Source="/image/side_.png"></Image>
+                                <Image Source="/image/document.png"  Margin="10" Width="70"></Image>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="1">
+                            <TextBlock Text="Documents" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" FontSize="35" Name="document_text" VerticalAlignment="Center"></TextBlock>
+                </Border>
+
+            </Grid>
+        </Border>
+                <Border x:ConnectionId='10' Grid.Row="4" Name="Sponsor" Background="#333333"                        >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" BorderBrush="#ffffff" BorderThickness="0 0 0 2">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Image Visibility="Collapsed" Name="spon_img" Width="40" Source="/image/side_.png"></Image>
+                                <Image Source="/image/sponser.png"  Margin="10" Width="70"></Image>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="1">
+                            <TextBlock Text="Sponsor zone" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" FontSize="35" Name="sponsor_text" VerticalAlignment="Center"></TextBlock>
+                </Border>
+
+            </Grid>
+        </Border>
+            </Grid>
+        </ScrollViewer>
+
+        <Border Height="70" Grid.Row="3" Background="#000000">
+            <TextBlock Name="marquee" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" VerticalAlignment="Center"  Text="Stream Name                                                                                                                                                 " FontSize="30" Foreground="#ffffff" FontWeight="Normal"></TextBlock>
+
+        </Border>
+        <Popup x:Name="logincontrol1" IsOpen="False" IsLightDismissEnabled="True">
+            <Popup.ChildTransitions>
+                <TransitionCollection>
+                    <PaneThemeTransition/>
+                </TransitionCollection>
+            </Popup.ChildTransitions>
+        <StackPanel Width="300"  Margin="0,50,0,0" >
+            <TextBlock Foreground="#FF474747"  TextAlignment="Right"  FontSize="30" Text="▲" Padding="0,0,20,0"></TextBlock>
+                <Border BorderThickness="0" Background="#FF474747" Margin="0,-12,0,0" CornerRadius="10" BorderBrush="Black">
+                <StackPanel >
+                        <TextBlock Text="Share on Facebook" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" Name="fb_menu" FontSize="30" TextAlignment="Left" Padding="5" ></TextBlock>
+                <Line X1="0" Stroke="#555555" StrokeThickness="2" X2="300" ></Line>
+                        <TextBlock x:ConnectionId='4' Text="Logout" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" Name="logout" FontSize="30" TextAlignment="Left" Padding="5"                       ></TextBlock>
+                        <Line X1="0" Stroke="#555555" StrokeThickness="2" X2="300" ></Line>
+                        <TextBlock x:ConnectionId='5' Text="Help" FontFamily="/Assets/Fonts/Prime Regular.otf#Prime" FontSize="30" Name="help" TextAlignment="Left" Padding="5"                     ></TextBlock>
+
+
+            </StackPanel>
+                </Border>
+            </StackPanel>
+        </Popup>
+
+    </Grid>
+</Page>
+

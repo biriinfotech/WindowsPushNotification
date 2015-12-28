@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Atuls\Documents\Visual Studio 2013\Projects\Stream_Application\Stream_Application\bin\Release\Stream_Application_1.0.0.2_Bundle\Stream_Application_1.0.0.2_AnyCPU.appx
+SymbolPackage=C:\Users\Atuls\Documents\Visual Studio 2013\Projects\Stream_Application\Stream_Application\AppPackages\Stream_Application_1.0.0.2_Test\Stream_Application_1.0.0.2_AnyCPU.appxsym
+ResourcePack=C:\Users\Atuls\Documents\Visual Studio 2013\Projects\Stream_Application\Stream_Application\bin\Release\Stream_Application_1.0.0.2_Bundle\Stream_Application_1.0.0.2_language-de.appx
+ResourcePack=C:\Users\Atuls\Documents\Visual Studio 2013\Projects\Stream_Application\Stream_Application\bin\Release\Stream_Application_1.0.0.2_Bundle\Stream_Application_1.0.0.2_language-pl.appx

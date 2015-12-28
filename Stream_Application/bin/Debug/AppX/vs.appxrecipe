@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ATUL</Machine>
+    <WindowsUser>Atuls</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3a22dce5-6c69-4938-ab5f-76e494dc6d8b</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4976D549F225AD31AA4D9B1C88FE666507A25A6D1B4BDC9755435D3C3A556ACA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3a22dce5-6c69-4938-ab5f-76e494dc6d8b_1.0.0.0_neutral__3fn0kqyarbmey</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3a22dce5-6c69-4938-ab5f-76e494dc6d8b_3fn0kqyarbmey!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3a22dce5-6c69-4938-ab5f-76e494dc6d8b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Atuls</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-16T07:52:07.472</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Stream_Application.exe">
+      <PackagePath>Stream_Application.exe</PackagePath>
+      <Modified>2014-12-16T07:52:06.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Fonts\MyriadPro-Regular.otf">
+      <PackagePath>Fonts\MyriadPro-Regular.otf</PackagePath>
+      <Modified>2014-12-16T05:06:26.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Fonts\Prime Regular.otf">
+      <PackagePath>Fonts\Prime Regular.otf</PackagePath>
+      <Modified>2014-12-16T05:06:26.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\PRIME LIGHT.OTF">
+      <PackagePath>Image\PRIME LIGHT.OTF</PackagePath>
+      <Modified>2014-12-16T05:13:21.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\PRIME REGULAR.OTF">
+      <PackagePath>Image\PRIME REGULAR.OTF</PackagePath>
+      <Modified>2014-12-16T05:13:21.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\back.png">
+      <PackagePath>Image\back.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\document.png">
+      <PackagePath>Image\document.png</PackagePath>
+      <Modified>2014-12-16T07:24:04.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\news.png">
+      <PackagePath>Image\news.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\de - Copy.png">
+      <PackagePath>Image\de - Copy.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\de.png">
+      <PackagePath>Image\de.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\en.png">
+      <PackagePath>Image\en.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\eb_copy.png">
+      <PackagePath>Image\eb_copy.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\green.png">
+      <PackagePath>Image\green.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\key.png">
+      <PackagePath>Image\key.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\lock.png">
+      <PackagePath>Image\lock.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\logo.png">
+      <PackagePath>Image\logo.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\menu.png">
+      <PackagePath>Image\menu.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\mic.png">
+      <PackagePath>Image\mic.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\pl - Copy.png">
+      <PackagePath>Image\pl - Copy.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\pl.png">
+      <PackagePath>Image\pl.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\question.png">
+      <PackagePath>Image\question.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\side.png">
+      <PackagePath>Image\side.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\side_.png">
+      <PackagePath>Image\side_.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Image\sponser.png">
+      <PackagePath>Image\sponser.png</PackagePath>
+      <Modified>2014-12-16T05:13:21.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T02:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Document_page.xbf">
+      <PackagePath>Document_page.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Home.xbf">
+      <PackagePath>Home.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Login_step1.xbf">
+      <PackagePath>Login_step1.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\News.xbf">
+      <PackagePath>News.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Question.xbf">
+      <PackagePath>Question.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Sponsors.xbf">
+      <PackagePath>Sponsors.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\stream.xbf">
+      <PackagePath>stream.xbf</PackagePath>
+      <Modified>2014-12-16T07:52:05.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\Stream_Application.xr.xml">
+      <PackagePath>Stream_Application.xr.xml</PackagePath>
+      <Modified>2014-12-16T07:52:05.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\atuls\documents\visual studio 2013\Projects\Stream_Application\Stream_Application\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-16T07:52:06.908</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

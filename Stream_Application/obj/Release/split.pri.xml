@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="3a22dce5-6c69-4938-ab5f-76e494dc6d8b" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="1.mp3" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/1.mp3">
+				<Candidate type="Path">
+					<Value>1.mp3</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AnimationImage.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/AnimationImage.xbf">
+				<Candidate type="Path">
+					<Value>AnimationImage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Document_page.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Document_page.xbf">
+				<Candidate type="Path">
+					<Value>Document_page.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FBlogin_view.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/FBlogin_view.xbf">
+				<Candidate type="Path">
+					<Value>FBlogin_view.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Full_story.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Full_story.xbf">
+				<Candidate type="Path">
+					<Value>Full_story.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Help.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Help.xbf">
+				<Candidate type="Path">
+					<Value>Help.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Home.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Home.xbf">
+				<Candidate type="Path">
+					<Value>Home.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Login_step1.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Login_step1.xbf">
+				<Candidate type="Path">
+					<Value>Login_step1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="News.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/News.xbf">
+				<Candidate type="Path">
+					<Value>News.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Question.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Question.xbf">
+				<Candidate type="Path">
+					<Value>Question.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Sponsors.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Sponsors.xbf">
+				<Candidate type="Path">
+					<Value>Sponsors.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="stream.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/stream.xbf">
+				<Candidate type="Path">
+					<Value>stream.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Stream_Application.xr.xml" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Stream_Application.xr.xml">
+				<Candidate type="Path">
+					<Value>Stream_Application.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="webview.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/webview.xbf">
+				<Candidate type="Path">
+					<Value>webview.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Fonts">
+					<NamedResource name="MyriadPro-Regular.otf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Assets/Fonts/MyriadPro-Regular.otf">
+						<Candidate type="Path">
+							<Value>Assets\Fonts\MyriadPro-Regular.otf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Prime Regular.otf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Assets/Fonts/Prime%20Regular.otf">
+						<Candidate type="Path">
+							<Value>Assets\Fonts\Prime Regular.otf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="StandardStyles.xbf" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Common/StandardStyles.xbf">
+					<Candidate type="Path">
+						<Value>Common\StandardStyles.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Image">
+				<NamedResource name="21.gif" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/21.gif">
+					<Candidate type="Path">
+						<Value>Image\21.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="373.gif" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/373.gif">
+					<Candidate type="Path">
+						<Value>Image\373.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="63.gif" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/63.gif">
+					<Candidate type="Path">
+						<Value>Image\63.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="anim.gif" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/anim.gif">
+					<Candidate type="Path">
+						<Value>Image\anim.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="anim2.gif" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/anim2.gif">
+					<Candidate type="Path">
+						<Value>Image\anim2.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="animate.gif" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/animate.gif">
+					<Candidate type="Path">
+						<Value>Image\animate.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="animated.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/animated.png">
+					<Candidate type="Path">
+						<Value>Image\animated.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="animated_Image.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/animated_Image.png">
+					<Candidate type="Path">
+						<Value>Image\animated_Image.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="back.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/back.png">
+					<Candidate type="Path">
+						<Value>Image\back.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="de - Copy.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/de%20-%20Copy.png">
+					<Candidate type="Path">
+						<Value>Image\de - Copy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="de.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/de.png">
+					<Candidate type="Path">
+						<Value>Image\de.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="doc.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/doc.png">
+					<Candidate type="Path">
+						<Value>Image\doc.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="document.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/document.png">
+					<Candidate type="Path">
+						<Value>Image\document.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="eb_copy.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/eb_copy.png">
+					<Candidate type="Path">
+						<Value>Image\eb_copy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="en.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/en.png">
+					<Candidate type="Path">
+						<Value>Image\en.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="green.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/green.png">
+					<Candidate type="Path">
+						<Value>Image\green.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="key.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/key.png">
+					<Candidate type="Path">
+						<Value>Image\key.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="lock.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/lock.png">
+					<Candidate type="Path">
+						<Value>Image\lock.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/logo.png">
+					<Candidate type="Path">
+						<Value>Image\logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="menu.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/menu.png">
+					<Candidate type="Path">
+						<Value>Image\menu.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mic.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/mic.png">
+					<Candidate type="Path">
+						<Value>Image\mic.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="news.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/news.png">
+					<Candidate type="Path">
+						<Value>Image\news.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pl - Copy.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/pl%20-%20Copy.png">
+					<Candidate type="Path">
+						<Value>Image\pl - Copy.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="pl.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/pl.png">
+					<Candidate type="Path">
+						<Value>Image\pl.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PRIME LIGHT.OTF" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/PRIME%20LIGHT.OTF">
+					<Candidate type="Path">
+						<Value>Image\PRIME LIGHT.OTF</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PRIME REGULAR.OTF" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/PRIME%20REGULAR.OTF">
+					<Candidate type="Path">
+						<Value>Image\PRIME REGULAR.OTF</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="question.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/question.png">
+					<Candidate type="Path">
+						<Value>Image\question.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="red.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/red.png">
+					<Candidate type="Path">
+						<Value>Image\red.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="side.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/side.png">
+					<Candidate type="Path">
+						<Value>Image\side.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="side_.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/side_.png">
+					<Candidate type="Path">
+						<Value>Image\side_.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Image\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sponser.png" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/sponser.png">
+					<Candidate type="Path">
+						<Value>Image\sponser.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="test.gif" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Files/Image/test.gif">
+					<Candidate type="Path">
+						<Value>Image\test.gif</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="DocumentScreen_Title" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/DocumentScreen_Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>DOCUMENTS</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Help_full_data" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/Help_full_data">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>-What is STREAM?
+It’s app that provides easy event management. You can easy customize app in way you need
+
+-STREAM
+That part allows you to broadcast voice, music from your personal pc with just one click. You can broadcast 1-3 stream with translations 
+
+-NEWS
+Stay in touch with event participants. Inform about current events
+
+-QUESTIONNAIRE
+Perform live questionnaire with participants. Ask questions and receive answers
+
+-DOCUMENTS
+Send pdf files inside app, maps, agendas etc.
+
+-SPONSOR ZONE
+Create inside app commercials
+---------------------------------------------------------------------------
+If something goes wrong, we shall try to put it right . Just write to info@silentstream.pl
+---------------------------------------------------------------------------</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Help_title" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/Help_title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>HELP</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LoginScreen_Code" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/LoginScreen_Code">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>code</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LoginScreen_EnterCode" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/LoginScreen_EnterCode">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Enter Event Code</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="LoginScreen_Login" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/LoginScreen_Login">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Login</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_Documents" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_Documents">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Documents</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_Facebook" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_Facebook">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Facebook</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_Help" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_Help">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Help</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_Logout" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_Logout">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>logout</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_News" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_News">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>News</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_Question" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_Question">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Questionnaire</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_Sponsor" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_Sponsor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Sponsors</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MenuScreen_Stream" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/MenuScreen_Stream">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Stream</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NewsScreen_FullStory" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/NewsScreen_FullStory">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Full story</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NewsScreen_Title" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/NewsScreen_Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>NEWS</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="QuestionScreen_Send" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/QuestionScreen_Send">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Send</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="QuestionScreen_Sended" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/QuestionScreen_Sended">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Send</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="QuestionScreen_Title" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/QuestionScreen_Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>QUESTIONNAIRE</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SponsorScreen_AddSponsor" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/SponsorScreen_AddSponsor">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Sended</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SponsorScreen_Title" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/SponsorScreen_Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SPONSORS</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StreamScreen_Title" uri="ms-resource://3a22dce5-6c69-4938-ab5f-76e494dc6d8b/Resources/StreamScreen_Title">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>STREAM</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
